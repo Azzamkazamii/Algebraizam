@@ -1,11 +1,15 @@
 # Addition And Substraction
 
-## : )
+The Number Line 
 
-### The Number Line 
-### Addition 
-### Subtraction 
-### Adding negatives 
-### Subtracting negatives 
-### Absolute value 
-### Distance on the number line 
+Addition 
+
+Subtraction 
+
+Adding negatives 
+
+Subtracting negatives 
+
+Absolute value 
+
+Distance on the number line 
