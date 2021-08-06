@@ -7,7 +7,7 @@ tapi karena kalian dah liat.. anggap aja kalian ga tau apa" dan aku akan bahas d
 
 
 ## Addition (+)
-Addition dalam bahasa indonesia berarti penambahan. penambahan itu adalah aktifitas ketika kita ingin menaruh sesuatu bersama, ketika kita **menambah** 2 nilai, kita menhitungnya bersamaan menjadi nilai yang lebih besar. 
+Addition dalam bahasa indonesia berarti penambahan. penambahan itu adalah aktifitas ketika kita ingin menaruh sesuatu bersama, ketika kita **menambah** 2 nilai, kita menghitungnya 2 nilai tadi bersamaan menjadi satu nilai yang lebih banyak. 
 
 Contoh: 
 Ketika Sebuah Kucing melahirkan, dia **menambah** kucing baru ke keluarganya. 
