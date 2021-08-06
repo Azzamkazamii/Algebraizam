@@ -15,6 +15,7 @@ kemudian kita bisa menghitung jumlah kucing nya, misal dia melahirkan 3 anak kuc
 
 kalau ditulis dalam persamaan matematik maka kayak gini:
 1(ibu kucing) + 3(anak kucing) = 4(keluarga kucing)
+
 1 + 3 = 4
 
 Kita Sudah Belajar juga tentang number line, contoh nya dalam number line itu kayak gini:
