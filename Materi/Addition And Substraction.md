@@ -11,9 +11,11 @@ Addition dalam bahasa indonesia berarti penambahan. penambahan itu adalah aktifi
 
 Contoh: 
 Ketika Sebuah Kucing melahirkan, dia **menambah** kucing baru ke keluarganya. 
+
 kemudian kita bisa menghitung jumlah kucing nya, misal dia melahirkan 3 anak kucing baru, maka ditambah dengan 1 ibu kucing, keluarga kucing itu berjumlah 4 kucing
 
 kalau ditulis dalam persamaan matematik maka kayak gini:
+
 1(ibu kucing) + 3(anak kucing) = 4(keluarga kucing)
 
 1 + 3 = 4
