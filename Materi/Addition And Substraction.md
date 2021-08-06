@@ -1,15 +1,19 @@
 # Addition And Substraction
 
-The Number Line 
+Jadi apa itu Addition dan Substraction?? buat kalian yang dah ngerti bisa skip aja materi ini, aku juga cuman ngulang" biar ingat 
+tapi karena kalian dah liat.. anggap aja kalian ga tau apa" dan aku akan bahas dari yang paling dasar kali 
 
-Addition 
+##The Number Line 
 
-Subtraction 
 
-Adding negatives 
+## Addition 
 
-Subtracting negatives 
+## Subtraction 
 
-Absolute value 
+## Adding negatives 
 
-Distance on the number line 
+## Subtracting negatives 
+
+## Absolute value 
+
+## Distance on the number line 
